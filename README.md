@@ -1,4 +1,15 @@
-### Hi there 👋
+Hi, I'm Dionata
+
+Welcome to my page!
+I'm Dionata Lima, Full-Stack developer junior from Brazil.
+
+Talking about Personal Stuffs
+
+👨🏽‍💻 Full-Stack Developer Student
+
+🌱 Currently learning HTML | CSS | JavaScript | React | Node.js | SQL
+
+🎮 I really enjoy reading and playing games (CS:GO, Valorant, TFT, etc..).
 
 <!--
 **DionataLima/DionataLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
